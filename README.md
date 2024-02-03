@@ -24,7 +24,7 @@ Destek sunucusundan(https://discord.gg/ddc6U7g4ce) reveloper. ile iletişime ge�
 
 Verilerinizi nasıl kaldırabilirsiniz?
 
-Destek sunucusundan(https://discord.gg/ddc6U7g4ce) Raxe botun geliştricisi olan reveloper. ile iletişime geçerek direkt kişisel verilerinizi kaldırabilirsiniz. Sunucu verilerini ise botu sunucudan atarak kaldırabilirsiniz.
+Destek sunucusundan(https://discord.gg/ddc6U7g4ce) RvS botun geliştricisi olan REVELOPER. ile iletişime geçerek direkt kişisel verilerinizi kaldırabilirsiniz. Sunucu verilerini ise botu sunucudan atarak kaldırabilirsiniz.
 
 Fakat kara liste verilerini ancak geliştirici kaldırmayı uygun görürse kaldırır.
 
